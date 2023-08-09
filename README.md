@@ -24,24 +24,24 @@ https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/8386
 
 <div style="text-align: center; margin-right: 20px;">
   <p>Stable Flight:</p>
-  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/4f16b49c-520f-4f5a-a1b2-beb6f1c2f2aa" width="400" height="400" />
+  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/4f16b49c-520f-4f5a-a1b2-beb6f1c2f2aa" width="200" height="200" />
 </div>
 
 <div style="text-align: center; margin-right: 20px;">
   <p>
 The aircraft is making a coordinated turn to the left at the 3°/sc rate of turn:
   </p>
-  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/ebe1d456-b193-43b1-9d29-31dd7e55007f" width="400" height="400" />
+  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/ebe1d456-b193-43b1-9d29-31dd7e55007f" width="200" height="200" />
 </div>
 
 <div style="text-align: center; margin-right: 20px;">
   <p>The aircraft is making a slipping turn to the left:</p>
-  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/ecccedb0-a177-440e-bba8-be9ec323dddb" width="400" height="400" />
+  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/ecccedb0-a177-440e-bba8-be9ec323dddb" width="200" height="200" />
 </div>
 
 <div style="text-align: center; margin-right: 20px;">
   <p>The aircraft is making a skidding turn to the right:</p>
-  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/6d874388-e342-43c2-800e-26c6f6c333e1" width="400" height="400" />
+  <img src="https://github.com/yesillmustafa/turn-coordinator-simulator/assets/74787246/6d874388-e342-43c2-800e-26c6f6c333e1" width="200" height="200" />
 </div>
 
 </div>
