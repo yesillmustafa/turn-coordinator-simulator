@@ -15,7 +15,7 @@ The simulator uses the following libraries for OpenGL interactions and rendering
 
 - Realistic turn coordinator simulation.
 - Display of the ball showing slip skid movements
-- Smooth animations and transitions.
+- Smooth animations
 
 ## Prerequisites
 
