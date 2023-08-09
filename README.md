@@ -55,6 +55,7 @@ cmake --build .
 ```bash
 ./TurnCoordinator
 ```
+7. While you can change the direction of the plane with the 'A' and 'D' keys, you can make the ball slide with the 'Left Arrow'  and the 'Right Arrow' keys.
 
 
 ## FAQ
